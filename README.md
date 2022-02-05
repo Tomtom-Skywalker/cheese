@@ -8,4 +8,4 @@ Remove The example- From The example-config And Fill In The Token And Custom The
 
 
 Consider Joining My Discord Server For Question Of Such!
-https://img.shields.io/discord/925819962004750336?style=for-the-badge
+<a href="https://discord.gg/Wx9MtttyWu"><img scr="https://img.shields.io/discord/925819962004750336?style=for-the-badge" /></a>
