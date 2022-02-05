@@ -1,0 +1,37 @@
+const Discord = require("discord.js");
+const config = require("./config.json");
+//const { Permissions } = require('discord.js');
+//if (!message.member.permissions.has([Permissions.FLAGS.PERMISSION])) {
+      //let er1 = new Discord.MessageEmbed().setDescription("```diff\n- Sorry But You Do Not Have PERMISSIONS To Run This Command\n```").setColor("#2F3136") return message.channel.send({embeds:[er1]}); }
+  
+      //if (!message.guild.me.permissions.has([Permissions.FLAGS.PERMISSION, Permissions.FLAGS.PERMISSION])) {
+       //let er2 = new Discord.MessageEmbed().setDescription("```diff\n- Sorry But I Do Not Have PERMISSIONS To Run This Command\n```").setColor("#2F3136") return message.channel.send({embeds:[er2]});}
+//const { version } = require("discord.js");
+//const fs = require("fs");
+//const xyz = JSON.parse(fs.readFileSync("./folder-name/file-name.json", "utf-8"));
+//let Embed = new Discord.MessageEmbed().setColor("#2F3136").setTitle(`TITLE`).setAuthor({ name: "Command Outcome! ", iconURL: message.member.displayAvatarURL({dynamic: true }) }).setFooter({text:`Command Request By: ${message.author.username} | From: ${client.user.username}'s Commands List' | Running On Discord.js V${version} | Quote API V0.001 On tomtomvader298.uk/api/quotes.json`}).setTimestamp()
+//
+
+
+//
+module.exports = {
+  name: "",
+  enabled: true,
+  clientPermission: ["EMBED_LINKS", "READ_MESSAGE_HISTORY","GUILD_MESSAGES"],
+
+run:async (client, message, args)=> {
+        await message.reply({content:`I Am Gathering The Command Information For You, Please Wait <@${message.author.id}>`}).then((sent) => { setTimeout(function(){ sent.delete().catch((e) => console.log(e)); }, 5000) });
+        //
+
+
+
+
+
+        //
+        message.channel.sendTyping()
+        setTimeout(function(){ 
+            message.channel.send({content:"", Embeds:[]}).catch((e) => message.guild.channels.cache.find(i => i.name === 'logs').send({content:'Error: ' + e})).catch((e) =>console.log(e));
+         }, 5000) 
+console.log(this.error)
+}
+}
