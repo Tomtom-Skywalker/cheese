@@ -17,4 +17,4 @@ Consider Joining My Discord Server For Question Of Such!
 
 
 ##Misc:
-Health: [Health](https://img.shields.io/lgtm/grade/javascript/github/Tomtom-Skywalker/cheese)
+Health: [Health](https://img.shields.io/codefactor/grade/github/Tomtom-Skywalker/cheese/main?style=flat-square)
