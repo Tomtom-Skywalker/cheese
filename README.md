@@ -15,3 +15,5 @@ Useful Links:
 1. [Gitbash](https://gitforwindows.org/)
 2. [Tomtom's API For More Commands](http://tomtomvader298.uk/api/api.html) ![BETA](https://img.shields.io/badge/Status-BETA-purple)
 
+Misc:
+![Stars](https://img.shields.io/github/stars/Tomtom-Skywalker/cheese?style=plastic)
