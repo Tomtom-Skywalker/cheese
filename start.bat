@@ -1,4 +1,4 @@
-echo off
+@echo off
 color d
 
 echo Starting Bot At %TIME% On %DATE%..
