@@ -16,4 +16,4 @@ Useful Links:
 2. [Tomtom's API For More Commands](http://tomtomvader298.uk/api/api.html) ![BETA](https://img.shields.io/badge/Status-BETA-purple)
 
 Misc:
-![Stars](https://img.shields.io/github/stars/Tomtom-Skywalker/cheese?style=plastic)
+![Stars](https://img.shields.io/github/stars/Tomtom-Skywalker/cheese?style=plastic) ![e](https://img.shields.io/maintenance/yes/2022) ![E](https://img.shields.io/node/v/discord.js) ![E](https://img.shields.io/github/repo-size/Tomtom-Skywalker/cheese) ![E](https://img.shields.io/github/sponsors/Tomtom-Skywalker) ![E](https://img.shields.io/github/checks-status/Tomtom-Skywalker/cheese/main)
