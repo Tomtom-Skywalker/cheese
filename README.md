@@ -11,10 +11,7 @@ Consider Joining My Discord Server For Question Of Such!
 [Tomtom's Lounge](https://discord.gg/Wx9MtttyWu) ![.](https://img.shields.io/discord/925819962004750336?style=for-the-badge)
 
 
-##Useful Links:
+Useful Links:
 1. [Gitbash](https://gitforwindows.org/)
 2. [Tomtom's API For More Commands](http://tomtomvader298.uk/api/api.html) ![BETA](https://img.shields.io/badge/Status-BETA-purple)
 
-
-##Misc:
-Health: [Health](https://img.shields.io/codefactor/grade/github/Tomtom-Skywalker/cheese/main?style=flat-square)
