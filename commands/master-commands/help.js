@@ -1,7 +1,7 @@
 const Discord = require("discord.js");
 //
 module.exports = {
-  name: "commands",
+  name: "help",
   enabled: true,
   clientPermission: ["EMBED_LINKS", "READ_MESSAGE_HISTORY","GUILD_MESSAGES"],
 
