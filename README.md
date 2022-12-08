@@ -5,7 +5,7 @@ Making This Choice Was A "Do I Do I Not" Moment As Sometimes My Bots Break Uncon
 - You Will Be Needing THe Latest Node (V18+) From https://nodejs.org/en/ !
 - This Also Requires Basic Discord.js Understanding! Read On The Docs: https://discord.js.org/#/ This Is A Extremely Basic Bot So It Shouldnt Need Much Tweaks!
 
-- Remove The example- From The example-config And Fill In The Token And Custom The Prefix To Your Liking!
+- Remove The example- From The `example-config` And Fill In The Token!
 
 
 ##### Consider Joining My Discord Server For Question Of Such! [The Droid Factory](https://discord.gg/763gUAQDHq)
