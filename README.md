@@ -2,7 +2,7 @@
 - This Bot Is Based From My Verified Bot Cheese, I Decided To Make A Copy Open Source!
 Making This Choice Was A "Do I Do I Not" Moment As Sometimes My Bots Break Unconditionally, Which Can Be A Pain To Someone Who Wants A Bot Based On My Verified Cheese Bot!
 
-- You Will Be Needing THe Latest Node (V18+) From https://nodejs.org/en/ !
+- You Will Be Needing The Latest Vers Of Node (V18+) From https://nodejs.org/en/ !
 - This Also Requires Basic Discord.js Understanding! Read On The Docs: https://discord.js.org/#/ This Is A Extremely Basic Bot So It Shouldnt Need Much Tweaks!
 
 - Remove The example- From The `example-config` And Fill In The Token!
