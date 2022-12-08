@@ -18,5 +18,5 @@ Making This Choice Was A "Do I Do I Not" Moment As Sometimes My Bots Break Uncon
 - [Tomtom's API For More Commands](http://tomtomvader298.uk/api/) ![BETA](https://img.shields.io/badge/Status-BETA-purple&style=for-the-badge)
 
 ## Misc:
-![Stars](https://img.shields.io/github/stars/Tomtom-Skywalker/cheese?&style=for-the-badge) ![e](https://img.shields.io/maintenance/yes/2022&style=for-the-badge) ![E](https://img.shields.io/node/v/discord.js&style=for-the-badge) ![E](https://img.shields.io/github/repo-size/Tomtom-Skywalker/cheese&style=for-the-badge) ![E](https://img.shields.io/github/sponsors/Tomtom-Skywalker) ![E](https://img.shields.io/github/checks-status/Tomtom-Skywalker/cheese/main)
+![Stars](https://img.shields.io/github/stars/Tomtom-Skywalker/cheese?&style=for-the-badge) ![e](https://img.shields.io/maintenance/yes/2022?&style=for-the-badge) ![E](https://img.shields.io/node/v/discord.js?&style=for-the-badge) ![E](https://img.shields.io/github/repo-size/Tomtom-Skywalker/cheese?&style=for-the-badge) ![E](https://img.shields.io/github/sponsors/Tomtom-Skywalker?&style=for-the-badge) ![E](https://img.shields.io/github/checks-status/Tomtom-Skywalker/cheese/main?&style=for-the-badge)
  
