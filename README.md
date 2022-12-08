@@ -9,7 +9,7 @@ Making This Choice Was A "Do I Do I Not" Moment As Sometimes My Bots Break Uncon
 
 
 ##### Consider Joining My Discord Server For Question Of Such! [The Droid Factory](https://discord.gg/763gUAQDHq)
-![.](https://img.shields.io/discord/1028696197424234626?style=for-the-badge)
+![Discord](https://img.shields.io/discord/1028696197424234626?color=red&label=Discord%20Online%20Members&logo=Discord&logoColor=purple&style=for-the-badge)
 
 
 ## Useful Links:
